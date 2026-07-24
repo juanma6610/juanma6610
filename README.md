@@ -3,11 +3,13 @@
 Artificial Intelligence and Machine learning engineer. I build models that reach production, not just notebooks. End to end ownership of the product.
 
 
+Open to Data / ML & AI Engineering roles
+
 ### Education
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KU_Leuven_logo.svg/120px-KU_Leuven_logo.svg.png" height="22" alt="KU Leuven"/> &nbsp;**KU Leuven** — Advanced Master's in Artificial Intelligence with specialization in Big Data and Analytics
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_UC3M.svg/120px-Logo_UC3M.svg.png" height="22" alt="UC3M"/> &nbsp;**UC3M** — BSc in Applied Mathematics & Computer Science · exchange year at <img src="assets/sbu.png" height="34" alt="Stony Brook University"/>  Stony Brook University
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_UC3M.svg/120px-Logo_UC3M.svg.png" height="22" alt="UC3M"/> &nbsp;**UC3M** — BSc in Applied Mathematics & Computer Science · exchange year at <img src="assets/sbu.png" height="34" alt="Stony Brook University"/>  
 
 <br>
 
@@ -18,11 +20,9 @@ Currently focused on applied ML for sports and AI tools for enterprise use.
 
 ### Experience
 
-<img src="assets/AtosLogo.png" height="16" alt="Atos"/> **Backend AI Developer — Atos** · [dates]
-[One line: what you built and the impact, e.g. "Built and deployed X, cutting Y by Z%."]
+<img src="assets/AtosLogo.jpeg" height="16" alt="Atos"/> **Backend AI Developer — Atos**
 
-<img src="assets/AtosLogo.png" height="16" alt="Atos"/> **AI Application Developer, Intern — Atos** · [dates]
-[One line: what you shipped.]
+<img src="assets/AtosLogo.jpeg" height="16" alt="Atos"/> **AI Application Developer, Intern — Atos**
 
 <br>
 
@@ -51,8 +51,8 @@ Currently focused on applied ML for sports and AI tools for enterprise use.
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/juanma-oliver) · [Kaggle](https://kaggle.com/juanmaoliver)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanma-oliver)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/juanmaoliver)
 
 
 
