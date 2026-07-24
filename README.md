@@ -1,4 +1,6 @@
-# Juan Manuel Oliver
+<p align="center">
+  <img src="assets/banner.png" alt="Juan Manuel Oliver — Artificial Intelligence & Machine Learning Engineer" width="100%"/>
+</p>
 
 Artificial Intelligence and Machine learning engineer. I build models that reach production, not just notebooks. End to end ownership of the product.
 
@@ -48,6 +50,10 @@ Currently focused on applied ML for sports and AI tools for enterprise use.
 
 
 <br>
+
+### Most-used languages
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanma6610&layout=compact&hide_border=true&langs_count=8)
 
 ### Elsewhere
 
