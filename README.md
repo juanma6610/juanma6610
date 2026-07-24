@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Juan Manuel Oliver — Artificial Intelligence & Machine Learning Engineer" width="100%"/>
+  <img src="assets/banner.gif" alt="Juan Manuel Oliver — Artificial Intelligence & Machine Learning Engineer" width="100%"/>
 </p>
 
 Artificial Intelligence and Machine learning engineer. I build models that reach production, not just notebooks. End to end ownership of the product.
