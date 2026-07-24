@@ -4,6 +4,7 @@
 
 Artificial Intelligence and Machine learning engineer. I build models that reach production, not just notebooks. End to end ownership of the product.
 
+Currently focused on applied ML for sports and AI tools for enterprise use.
 
 Open to Data / ML & AI Engineering roles
 
@@ -13,12 +14,6 @@ Open to Data / ML & AI Engineering roles
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_UC3M.svg/120px-Logo_UC3M.svg.png" height="22" alt="UC3M"/> &nbsp;**UC3M** — BSc in Applied Mathematics & Computer Science · exchange year at <img src="assets/sbu.png" height="34" alt="Stony Brook University"/>  
 
-<br>
-
-
-Currently focused on applied ML for sports and AI tools for enterprise use.
-
-<br>
 
 ### Experience
 
@@ -26,16 +21,15 @@ Currently focused on applied ML for sports and AI tools for enterprise use.
 
 - <img src="assets/AtosLogo.jpeg" height="16" alt="Atos"/> **AI Application Developer, Intern — Atos**
 
-<br>
 
 ### Projects
 
-- **ShotPrint** — quantifies shot quality and builds metrics around it while keeping data private via federated learning. Master's thesis at KU Leuven, graded 18/20.  · [github.com/juanma6610/ShotPrint](https://github.com/juanma6610/ShotPrint)
+- **[Shotprint](https://github.com/juanma6610/ShotPrint)** — quantifies shot quality and builds metrics around it while keeping data private via federated learning. Master's thesis at KU Leuven, graded 18/20. 
 
 
-- **Duolingo memory engine** — memory modeling that predicts recall probability to optimize study strategy. · [github.com/juanma6610/KUL-Hackaton2026](https://github.com/juanma6610/KUL-Hackaton2026)
+- **[Duolingo memory engine](https://github.com/juanma6610/KUL-Hackaton2026)** — memory modeling that predicts recall probability to optimize study strategy.
 
-- **Code The Sky** — [analysis surfacing insight Z] Achieved third place in the Google Developer Group Hackathon · [github.com/juanma6610/BDA_CodeTheSky](https://github.com/juanma6610/BDA_CodeTheSky)
+- **[Code The Sky](https://github.com/juanma6610/BDA_CodeTheSky)** — [analysis surfacing insight Z] Achieved third place in the Google Developer Group Hackathon.
 
 
 ### Tools
@@ -47,10 +41,6 @@ Currently focused on applied ML for sports and AI tools for enterprise use.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-
-
-<br>
-
 
 
 ### Elsewhere
