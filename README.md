@@ -29,7 +29,7 @@ Open to Data / ML & AI Engineering roles
 
 - **[Duolingo memory engine](https://github.com/juanma6610/KUL-Hackaton2026)** — memory modeling that predicts recall probability to optimize study strategy.
 
-- **[Code The Sky](https://github.com/juanma6610/BDA_CodeTheSky)** — [analysis surfacing insight Z] Achieved third place in the Google Developer Group Hackathon.
+- **[Code The Sky](https://github.com/juanma6610/BDA_CodeTheSky)** — Vibration based fault classifier to detect bolt loosening in airfield lightning, uses data from 3-axis accelerometers. Achieved third place in the Google Developer Group Hackathon.
 
 
 ### Tools
